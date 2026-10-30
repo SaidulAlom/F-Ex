@@ -1,0 +1,505 @@
+{
+  "notice": "These are real third-party product, stock and storefront photographs bundled only to make the demo site visually complete. They are NOT photographs of F-Ex Store's actual branches or inventory. The hero shows two transparent, frame-free single-phone cutouts from official product photographs, with no device frames, hands or lifestyle scenes. Review each source page and replace them with F-Ex Store's own licensed photography before commercial launch.\n",
+  "sources": [
+    {
+      "file": "iphone-15-blue.jpg",
+      "title": "iPhone 15 in blue shown from the front and back",
+      "url": "https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/",
+      "rights": "Apple Newsroom press image — verify commercial reuse; replace with own product photo."
+    },
+    {
+      "file": "iphone-13-lineup.jpg",
+      "title": "iPhone 13 colour lineup",
+      "url": "https://www.apple.com/newsroom/2021/09/apple-introduces-iphone-13-and-iphone-13-mini/",
+      "rights": "Apple Newsroom press image — verify commercial reuse; replace with own product photo."
+    },
+    {
+      "file": "iphone-13-purple.jpg",
+      "title": "iPhone 13 product photograph",
+      "url": "https://pinterest.com/ideas/apple-iphone-13-midnight-official-product-photo/904224015750",
+      "rights": "Pinterest-hosted product image — verify rights before production."
+    },
+    {
+      "file": "vivo-v50-rose-red.png",
+      "title": "vivo V50 Rose Red official product image",
+      "url": "https://www.vivo.com/in/products/param/v50",
+      "rights": "Official vivo product image — verify commercial reuse; replace with own product photo."
+    },
+    {
+      "file": "vivo-v50-camera.png",
+      "title": "vivo V50 camera detail",
+      "url": "https://www.vivo.com/in/products/param/v50",
+      "rights": "Official vivo product image — verify commercial reuse; replace with own product photo."
+    },
+    {
+      "file": "samsung-s24-fe.jpg",
+      "title": "Samsung Galaxy S24 FE review photograph",
+      "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-fe-review-flagship-features-for-small-sacrifices/",
+      "rights": "Editorial/review image — verify commercial reuse before production."
+    },
+    {
+      "file": "samsung-s24-fe-box.jpg",
+      "title": "Samsung Galaxy S24 FE retail box photograph",
+      "url": "https://www.ebay.com/p/23072674046",
+      "rights": "Marketplace product image — verify rights before production."
+    },
+    {
+      "file": "redmi-note-14-pro-plus.jpg",
+      "title": "Redmi Note 14 Pro+ 5G official lifestyle image",
+      "url": "https://www.mi.com/global/product/redmi-note-14-pro-plus-5g/",
+      "rights": "Official Xiaomi product image — verify commercial reuse; replace with own product photo."
+    },
+    {
+      "file": "redmi-note-14-pro-plus-camera.png",
+      "title": "Redmi Note 14 Pro+ 5G camera detail",
+      "url": "https://www.mi.com/in/product/redmi-note-14-pro-plus-5g/",
+      "rights": "Official Xiaomi product image — verify commercial reuse; replace with own product photo."
+    },
+    {
+      "file": "nothing-phone-2a.jpg",
+      "title": "Nothing Phone (2a) official image",
+      "url": "https://www.lowyat.net/2024/317321/nothing-phone-2a-breaks-cover/",
+      "rights": "Press image attributed to Nothing — verify reuse rights."
+    },
+    {
+      "file": "nothing-phone-2a-back.webp",
+      "title": "Nothing Phone (2a) white rear view",
+      "url": "https://newmobile.com/phones/nothing/phone-2a",
+      "rights": "Third-party product image — verify rights before production."
+    },
+    {
+      "file": "oneplus-nord-ce3-lite.png",
+      "title": "OnePlus Nord CE 3 Lite 5G Pastel Lime",
+      "url": "https://www.oneplus.com/global/nord-ce-3-lite-5g/specs",
+      "rights": "Official OnePlus product image — verify commercial reuse; replace with own product photo."
+    },
+    {
+      "file": "oneplus-nord-ce3-lite-alt.png",
+      "title": "OnePlus Nord CE 3 Lite 5G alternate colour",
+      "url": "https://www.oneplus.com/global/nord-ce-3-lite-5g/specs",
+      "rights": "Official OnePlus product image — verify commercial reuse; replace with own product photo."
+    },
+    {
+      "file": "samsung-s21-fe.png",
+      "title": "Samsung Galaxy S21 FE 5G Navy product image",
+      "url": "https://www.croma.com/samsung-galaxy-s21-fe-5g-8gb-ram-256gb-navy-blue-/p/300445",
+      "rights": "Retailer product image — verify rights before production."
+    },
+    {
+      "file": "samsung-s21-fe-alt.jpg",
+      "title": "Samsung Galaxy S21 FE 5G user photograph",
+      "url": "https://www.reddit.com/r/GalaxyS21FE/comments/16c9o18/my_new_s21_fe_5g_8_256_navy_blue/",
+      "rights": "Community photograph — verify creator permission before production."
+    },
+    {
+      "file": "apple-20w-adapter.png",
+      "title": "Apple 20W USB-C Power Adapter product image",
+      "url": "https://www.t-mobile.com/business/accessory/apple-20w-usb-c-power-adapter-white",
+      "rights": "Retailer product image — verify rights before production."
+    },
+    {
+      "file": "apple-20w-adapter-alt.jpg",
+      "title": "Apple 20W USB-C Power Adapter photograph",
+      "url": "https://www.reddit.com/r/UsbCHardware/comments/1qbtex2/should_i_be_surprised_that_apple_20w_pd_usbc/",
+      "rights": "Community photograph — verify creator permission before production."
+    },
+    {
+      "file": "boat-airdopes.jpg",
+      "title": "boAt Airdopes 141 ANC TWS earbuds",
+      "url": "https://www.reliancedigital.in/product/boat-airdopes-141-anc-tws-in-ear-earbuds-with-32-db-anc-42-hrs-playback-50-ms-low-latency-beast-mode-iwp-tech-quad-mics-with-enx-asap-charge-usb-type-c-port-and-ipx5-green-lzizis-8111860",
+      "rights": "Retailer product image — verify rights before production."
+    },
+    {
+      "file": "boat-airdopes-alt.jpg",
+      "title": "boAt Airdopes 141 ANC alternate product angle",
+      "url": "https://www.reliancedigital.in/product/boat-airdopes-141-anc-tws-in-ear-earbuds-with-32-db-anc-42-hrs-playback-50-ms-low-latency-beast-mode-iwp-tech-quad-mics-with-enx-asap-charge-usb-type-c-port-and-ipx5-green-lzizis-8111860",
+      "rights": "Retailer product image — verify rights before production."
+    },
+    {
+      "file": "panasonic-landline.png",
+      "title": "Panasonic KX-TS880MX corded landline phone",
+      "url": "https://ankurelectricals.com/products/panasonic-single-kx-ts880mx-corded-phone",
+      "rights": "Retailer product image — verify rights before production."
+    },
+    {
+      "file": "panasonic-landline-alt.png",
+      "title": "Panasonic KX-TS880MX alternate angle",
+      "url": "https://ankurelectricals.com/products/panasonic-single-kx-ts880mx-corded-phone",
+      "rights": "Retailer product image — verify rights before production."
+    },
+    {
+      "file": "usb-c-cable.jpg",
+      "title": "Braided USB-C charging cable on white background",
+      "url": "https://ebay.com/itm/358833349841",
+      "rights": "Marketplace product image — verify rights before production."
+    },
+    {
+      "file": "usb-c-cable-alt.jpg",
+      "title": "White USB-C charging cable",
+      "url": "https://www.amazon.com/Headphones-Earphones-Magnetic-Headphone-Smartphone/dp/B08Y5LDGQB",
+      "rights": "Marketplace product image — verify rights before production."
+    },
+    {
+      "file": "generic-electronics.jpg",
+      "title": "Electronic devices flat lay on white background",
+      "url": "https://pexels.com/photo/electronic-devices-on-white-background-16888144",
+      "rights": "Pexels stock photo — see source page licence; attribution appreciated."
+    },
+    {
+      "file": "store-lokhra.jpg",
+      "title": "Sleek electronics store interior with mobile devices on display",
+      "url": "https://pexels.com/photo/a-set-of-tables-and-shelves-with-displayed-cellphones-11297769",
+      "rights": "Pexels stock photo — see source page licence; attribution appreciated."
+    },
+    {
+      "file": "store-basistha.jpg",
+      "title": "Modern electronics store interior with wooden display tables",
+      "url": "https://pexels.com/photo/a-set-of-tables-and-shelves-with-displayed-cellphones-11297769",
+      "rights": "Pexels stock photo — see source page licence; attribution appreciated."
+    },
+    {
+      "file": "banner-hero.jpg",
+      "title": "Close-up of an Apple phone on a table",
+      "url": "https://unsplash.com/photos/a-close-up-of-an-apple-phone-on-a-table-Cz7jeoBSRZ4",
+      "rights": "Unsplash stock photo — see source page licence; attribution appreciated."
+    },
+    {
+      "file": "banner-weekend.jpg",
+      "title": "Two smartphones on a white background",
+      "url": "https://pexels.com/photo/close-up-of-two-smartphones-on-white-background-30639092",
+      "rights": "Pexels stock photo — see source page licence; attribution appreciated."
+    },
+    {
+      "file": "banner-repair.jpg",
+      "title": "Smartphone repair tools on a workbench",
+      "url": "https://www.pexels.com/search/mobile%20phone%20repair/",
+      "rights": "Pexels stock photo — see source page licence; attribution appreciated."
+    }
+  ],
+  "outputs": [
+    {
+      "source": "iphone-15-blue.jpg",
+      "target": "public/images/products/iphone-15-blue.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Apple iPhone 15 128GB Blue"
+    },
+    {
+      "source": "iphone-13-lineup.jpg",
+      "target": "public/images/products/iphone-13-midnight.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Apple iPhone 13 pre-owned"
+    },
+    {
+      "source": "iphone-13-purple.jpg",
+      "target": "public/images/products/iphone-13-purple.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Apple iPhone 13 gallery second image"
+    },
+    {
+      "source": "vivo-v50-rose-red.png",
+      "target": "public/images/products/vivo-v50-rose-red.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Vivo V50 5G Rose Red"
+    },
+    {
+      "source": "vivo-v50-camera.png",
+      "target": "public/images/products/vivo-v50-detail.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Vivo V50 gallery second image"
+    },
+    {
+      "source": "samsung-s24-fe.jpg",
+      "target": "public/images/products/samsung-s24-fe.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Samsung Galaxy S24 FE Graphite"
+    },
+    {
+      "source": "samsung-s24-fe-box.jpg",
+      "target": "public/images/products/samsung-s24-fe-detail.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Samsung Galaxy S24 FE gallery second image"
+    },
+    {
+      "source": "redmi-note-14-pro-plus.jpg",
+      "target": "public/images/products/redmi-note-14-pro-plus.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Redmi Note 14 Pro+ 5G"
+    },
+    {
+      "source": "redmi-note-14-pro-plus-camera.png",
+      "target": "public/images/products/redmi-note-14-pro-plus-detail.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Redmi Note 14 Pro+ gallery second image"
+    },
+    {
+      "source": "nothing-phone-2a.jpg",
+      "target": "public/images/products/nothing-phone-2a.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Nothing Phone (2a) 5G"
+    },
+    {
+      "source": "nothing-phone-2a-back.webp",
+      "target": "public/images/products/nothing-phone-2a-detail.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Nothing Phone (2a) gallery second image"
+    },
+    {
+      "source": "oneplus-nord-ce3-lite.png",
+      "target": "public/images/products/oneplus-nord-ce3-lite.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "OnePlus Nord CE 3 Lite 5G"
+    },
+    {
+      "source": "oneplus-nord-ce3-lite-alt.png",
+      "target": "public/images/products/oneplus-nord-ce3-lite-detail.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "OnePlus Nord CE 3 Lite gallery second image"
+    },
+    {
+      "source": "samsung-s21-fe.png",
+      "target": "public/images/products/samsung-s21-fe.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Samsung Galaxy S21 FE 5G pre-owned"
+    },
+    {
+      "source": "samsung-s21-fe-alt.jpg",
+      "target": "public/images/products/samsung-s21-fe-detail.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Samsung Galaxy S21 FE gallery second image"
+    },
+    {
+      "source": "apple-20w-adapter.png",
+      "target": "public/images/products/apple-20w-adapter.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Apple 20W USB-C Power Adapter"
+    },
+    {
+      "source": "boat-airdopes.jpg",
+      "target": "public/images/products/boat-airdopes-141.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "boAt Airdopes 141 ANC TWS earbuds"
+    },
+    {
+      "source": "boat-airdopes-alt.jpg",
+      "target": "public/images/products/boat-airdopes-141-detail.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "boAt Airdopes gallery second image"
+    },
+    {
+      "source": "panasonic-landline.png",
+      "target": "public/images/products/panasonic-landline.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Panasonic corded landline phone"
+    },
+    {
+      "source": "panasonic-landline-alt.png",
+      "target": "public/images/products/panasonic-landline-detail.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Panasonic landline gallery second image"
+    },
+    {
+      "source": "usb-c-cable.jpg",
+      "target": "public/images/products/usb-c-cable.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "Braided 65W USB-C fast charging cable"
+    },
+    {
+      "source": "usb-c-cable-alt.jpg",
+      "target": "public/images/products/usb-c-cable-detail.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "pad",
+      "used_for": "USB-C cable gallery second image"
+    },
+    {
+      "source": "generic-electronics.jpg",
+      "target": "public/images/products/generic-product.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "cover",
+      "used_for": "Generic fallback product image"
+    },
+    {
+      "source": "generic-electronics.jpg",
+      "target": "public/images/products/accessories.webp",
+      "size": [
+        1200,
+        900
+      ],
+      "mode": "cover",
+      "used_for": "Accessory category fallback image"
+    },
+    {
+      "source": "banner-hero.jpg",
+      "target": "public/images/banners/hero-phones.webp",
+      "size": [
+        1600,
+        900
+      ],
+      "mode": "cover",
+      "used_for": "Homepage hero / primary offer banner"
+    },
+    {
+      "source": "banner-weekend.jpg",
+      "target": "public/images/banners/weekend-offer.webp",
+      "size": [
+        1600,
+        900
+      ],
+      "mode": "cover",
+      "used_for": "Weekend exchange offer banner"
+    },
+    {
+      "source": "banner-repair.jpg",
+      "target": "public/images/banners/repair-offer.webp",
+      "size": [
+        1600,
+        900
+      ],
+      "mode": "cover",
+      "used_for": "Repair assessment offer banner"
+    },
+    {
+      "source": "store-lokhra.jpg",
+      "target": "public/images/branches/lokhra-store.webp",
+      "size": [
+        1200,
+        600
+      ],
+      "mode": "cover",
+      "used_for": "Representative Lokhra branch photograph"
+    },
+    {
+      "source": "store-basistha.jpg",
+      "target": "public/images/branches/basistha-store.webp",
+      "size": [
+        1200,
+        600
+      ],
+      "mode": "cover",
+      "used_for": "Representative Basistha branch photograph"
+    },
+    {
+      "source": "oneplus-nord-ce3-lite-alt.png",
+      "target": "public/images/hero/phone-blue.webp",
+      "size": [
+        600,
+        1400
+      ],
+      "mode": "phone-cutout",
+      "used_for": "Transparent single-phone cutout of a blue OnePlus device for the frame-free hero",
+      "isolate_rect": [
+        490,
+        116,
+        882,
+        958
+      ],
+      "radius": 44
+    },
+    {
+      "source": "vivo-v50-rose-red.png",
+      "target": "public/images/hero/phone-red.webp",
+      "size": [
+        600,
+        1400
+      ],
+      "mode": "phone-cutout",
+      "used_for": "Transparent single-phone cutout of a rose-red vivo device for the frame-free hero",
+      "isolate_rect": [
+        275,
+        39,
+        543,
+        597
+      ],
+      "radius": 30
+    }
+  ]
+}

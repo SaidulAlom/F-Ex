@@ -1,0 +1,49 @@
+{
+  "name": "f-ex-store",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "seed": "tsx scripts/seed.ts",
+    "seed:staff": "tsx scripts/create-staff.ts",
+    "check": "npm run typecheck && npm run lint && npm run build",
+    "images:prepare": "python3 scripts/prepare-real-images.py"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "5.9.2",
+    "bcryptjs": "2.4.3",
+    "cloudinary": "2.11.0",
+    "clsx": "2.1.1",
+    "framer-motion": "14.6.0",
+    "lucide-react": "1.61.0",
+    "mongoose": "8.24.7",
+    "next": "16.4.3",
+    "next-auth": "4.24.15",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "react-hook-form": "7.91.0",
+    "resend": "6.34.1",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/bcryptjs": "2.4.6",
+    "@types/node": "22.10.5",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.2.2",
+    "dotenv": "16.4.7",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.4.3",
+    "postcss": "8.5.31",
+    "tailwindcss": "4.3.3",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
